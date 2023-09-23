@@ -11,7 +11,6 @@
 </p> 
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, ReactJS, and NodeJS, or anything related to web development.
 - 👨‍💻 Check out my portfolio at https://www.behance.net/radwamansour to see some of the projects I've worked on.
 
 
