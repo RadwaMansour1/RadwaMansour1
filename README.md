@@ -1,5 +1,3 @@
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
-
 <h3 align="center">
   Welcome to Radwa Mansour's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -11,7 +9,7 @@
 </p> 
 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 👨‍💻 Check out my portfolio at https://www.behance.net/radwamansour to see some of the projects I've worked on.
+- Check out my portfolio at https://www.behance.net/radwamansour to see some of the projects I've worked on.
 
 
 ### Connect with Me :
