@@ -24,10 +24,9 @@
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio%20-05122A?style=flat&logo=android-studio)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logo=jquery)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
@@ -38,7 +37,6 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RadwaMansour1&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 <br>
 <a href="https://komarev.com/ghpvc/?username=RadwaMansour1&style=for-the-badge">
     <img src="https://komarev.com/ghpvc/?username=RadwaMansour1&style=for-the-badge">
